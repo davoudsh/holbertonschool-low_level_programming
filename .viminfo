@@ -9,6 +9,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:q!
 
 # Search String History (newest to oldest):
 
@@ -21,12 +22,50 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+'0  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+'1  8  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+'2  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+'3  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
 
 # Jumplist (newest first):
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+-'  8  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  8  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+	"	1	0
+
+> ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+	"	8	0
+	^	8	1
+	.	8	0
+	+	8	0
+
+> ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+	"	2	0
+	^	2	0
+	.	1	55
+	+	1	55
 
 > ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
 	"	1	0
