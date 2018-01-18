@@ -22,16 +22,20 @@
 # Registers:
 
 # File marks:
-'0  12  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
-'1  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
-'2  8  1  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
-'3  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
-'4  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+'0  11  1  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+'1  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts
+'2  12  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+'3  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+'4  8  1  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+'5  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+'6  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
 
 # Jumplist (newest first):
+-'  11  1  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts
 -'  12  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
 -'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
--'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
 -'  8  1  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
 -'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
 -'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
@@ -49,7 +53,6 @@
 -'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
--'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
 -'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
 -'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
@@ -66,8 +69,81 @@
 -'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  12  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  8  1  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  12  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+-'  12  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  8  1  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  2  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/file3
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+	"	11	1
+	^	11	2
+	.	11	1
+	+	12	0
+	+	11	1
+	+	12	0
+	+	10	1
+	+	11	1
+
+> ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts
+	"	1	0
 
 > ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf.c
 	"	12	0
@@ -79,9 +155,6 @@
 	+	10	1
 	+	1	18
 	+	11	1
-
-> ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
-	"	1	0
 
 > ~/holbertonschool-low_level_programming/0x00-hello_world/5-printf
 	"	2	0

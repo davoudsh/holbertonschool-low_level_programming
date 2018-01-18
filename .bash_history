@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cd holbertonschool-low_level_programming/0x00-hello_world/
 git add .
 unalias git
@@ -209,3 +210,6 @@ git commit -m "holbeton"
 git push
 git add -A
 git add --all
+=======
+
+>>>>>>> 807d1c1f0acec31f578c62bd4d9dce0c9466eee2
