@@ -1,8 +1,8 @@
-/**
- *prints "with proper grammar, but the outcome is a piece of art,
- *the program should end with 0
- */
 #include <stdio.h>
+/**
+ * prints "with proper grammar, but the outcome is a piece of art,
+ * ends with 0
+ */
 int main(void)
 {
   printf("with proper grammar, but the outcome is a piece of art,\n");
