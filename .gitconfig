@@ -1,3 +1,5 @@
 [user]
 	email = davoud_shafiee@yahoo.com
 	name = davoudsh
+[push]
+	default = simple
