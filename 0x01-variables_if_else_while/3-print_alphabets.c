@@ -1,19 +1,24 @@
 #include <stdio.h>
-/**                                                                                                                                                                                    * main - for loop that prints alphabet                                                                                                                                                 *                                                                                                                                                                                      * Return: Always 0 (Success)                                                                                                                                                           */
+/**
+ * main - print a - z and A - Z
+ * Return: 0 if successful
+ */
+
 int main(void)
 {
 char c = 'a';
 char C = 'A';
+
 while (c <= 'z')
 {
-putchar (c);
+putchar(c);
 c++;
 }
 while (C <= 'Z')
-{ 
-putchar (C);
+{
+putchar(C);
 C++;
 }
-putchar ('\n');
+putchar('\n');
 return (0);
 }
