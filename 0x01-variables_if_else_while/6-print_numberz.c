@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - print base 10 numbers
  * Return: 0 if successful
@@ -7,12 +6,10 @@
 
 int main(void)
 {
-int a = '0';
-while (a < '9')
-{
-putchar(a);
-a++;
-}
-putchar('\n');
+int n;
+
+for (n = 0; n < 10; n++)
+printf("%d", n);
+printf("\n");
 return (0);
 }
